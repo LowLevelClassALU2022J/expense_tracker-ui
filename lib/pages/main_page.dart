@@ -20,7 +20,7 @@ class _MainPageState extends State<MainPage> {
     const HomeScreen(),
     IncomeScreen(),
     ExpenseScreen(),
-    ReportsScreen(),
+    ReportScreen(),
   ];
 
   void _onBottomNavIndexChanged(int index) {
