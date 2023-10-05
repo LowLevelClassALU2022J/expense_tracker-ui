@@ -15,6 +15,7 @@ An intuitive and stylish expense tracker built with Flutter.
 ## Table of Contents
 
 - [Features](#features)
+- [Prototype](#prototype)
 - [Getting Started](#getting-started)
 - [Prerequisites](#prerequisites)
 - [Installation](#installation)
@@ -38,6 +39,10 @@ An intuitive and stylish expense tracker built with Flutter.
     <img src="screenshots/screen-5.png" width="200">
     <img src="screenshots/screen-6.png" width="200">
 </div>
+
+## Prototype
+Check out our project [prototype on Adalo]( https://previewer.adalo.com/21e13618-71a8-48d3-b960-e45e981a5383)
+
 
 ## Getting Started
 
